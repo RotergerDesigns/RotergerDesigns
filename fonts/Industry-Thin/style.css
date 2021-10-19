@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Industry';
-    src: local('Industry Thin'), local('Industry-Thin'),
-        url('Industry-Thin.woff2') format('woff2'),
-        url('Industry-Thin.woff') format('woff'),
-        url('Industry-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-  }
