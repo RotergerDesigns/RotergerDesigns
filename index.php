@@ -24,7 +24,7 @@ session_start();
 <nav class="nav" >
 
    <ul>
-					<li><a href="home.php"><i class="home" aria-hidden="true"></i><span class="off">Inicio</span></a></li>
+					<li><a href="index.php"><i class="home" aria-hidden="true"></i><span class="off">Inicio</span></a></li>
 					<li><a href="web/tienda.php"><i class="home" aria-hidden="true"></i><span class="off">Tienda</span></a></li>
 					<li><a href="#"><i class="home" aria-hidden="true"></i><span class="off">Porfolio</span></a></li>
 					<li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i><span class="off">Contacto</span></a></li>
